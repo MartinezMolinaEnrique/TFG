@@ -1,3 +1,26 @@
+
+> El notebook principal contiene **todo el flujo experimental**, desde la carga del dataset hasta el entrenamiento del modelo base.
+> 
+---
+
+## 👤 Autor
+
+**Enrique Martínez Molina**  
+Grado en Ingeniería Informática – Universidad de Almería  
+
+**Director del TFG:**  
+Francisco José Orts Gómez  
+Gracia Ester Martín Garzón  
+
+---
+
+## 📄 Licencia
+
+Este proyecto se publica con fines **académicos y educativos**.  
+El uso del código es libre para fines docentes o de investigación, citando adecuadamente la fuente.
+
+---
+
 # Evaluación de técnicas de Machine Learning en Sistemas de Detección de Intrusiones (IDS)
 
 Este repositorio contiene el desarrollo experimental del **Trabajo Fin de Grado (TFG)** titulado:
