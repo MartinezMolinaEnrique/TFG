@@ -80,11 +80,7 @@ El desarrollo sigue un flujo metodológico claro y reproducible:
    - Codificación One-Hot para variables categóricas
    - Escalado estándar de variables numéricas
    - Implementación mediante `ColumnTransformer`
-7. **Verificaciones**
-   - Dimensionalidad tras One-Hot Encoding
-   - Número de categorías generadas
-   - Correcta aplicación del escalado
-8. **Modelo base**
+7. **Modelo base**
    - Regresión Logística como baseline
 
 ---
